@@ -11,3 +11,12 @@ Before I had plunged into the low-Reynolds fluid dynamics field of research I gr
 the Mechanical Engineering Department of Ecole des Ponts et Chaussées ([GMM](http://www.enpc.fr/genie-mecanique-et-materiaux)) and from Advanced Aeronautical Engineering Master of Sciences at Imperial College of London ([AAE](http://www.imperial.ac.uk/aeronautics)). 
  
 Finally, I discovered the fascinating and thrilling world of research thanks to [Thierry Ondarçuhu](https://www.imft.fr/ONDARCUHU-Thierry) through a project on wetting phenomenon at the nano-scale.
+
+Contact:
+
+LadHyX
+Ecole Polytechnique
+Boulevard des Maréchaux
+91120
+Palaiseau
+France
