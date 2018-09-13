@@ -14,7 +14,10 @@ Finally, I discovered the fascinating and thrilling world of research thanks to 
 
 Contact:
 
-LadHyX
+*Kevin.lippera@ladhyx.polytechnique.fr*
+
+**LadHyX**
+
 Ecole Polytechnique
 Boulevard des Maréchaux
 91120
